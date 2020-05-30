@@ -2,6 +2,9 @@
 title:  知识杂货铺
 tags: knowledge
 key: a3965f6bd0e64cebd43e3ea4a273abee
+header:
+  theme: dark
+  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 article_header: 
  type: cover
  image:
