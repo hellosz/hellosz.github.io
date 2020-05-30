@@ -2,6 +2,10 @@
 title:  知识杂货铺
 tags: knowledge
 key: a3965f6bd0e64cebd43e3ea4a273abee
+article_header: 
+ type: cover
+ image:
+  src:  /assets/headers/curiosity.png
 ---
 # 技术
 ## 后端
