@@ -131,10 +131,9 @@ comments:
     clientSecret: "7e61582acfaf5981864be8e8fb1bd04acee336b7"
  # GitHub Application Client Secret
     repository  : "hellosz.github.io" # GitHub repo
-    owner       : "Fabulous" # GitHub repo owner
+    owner       : "hellosz" # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - "Fabulous" # - your GitHub Id refer: https://api.github.com/users/hellosz
-      - "hellosz"
+      - "hellosz" # - your GitHub Id refer: https://api.github.com/users/hellosz
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
