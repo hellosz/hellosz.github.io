@@ -8,7 +8,7 @@
 *.swo
 *.log
 *.log.*
-
+.env
 /.vscode/
 
 node_modules/
