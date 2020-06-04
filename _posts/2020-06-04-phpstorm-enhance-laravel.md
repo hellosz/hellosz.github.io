@@ -1,3 +1,9 @@
+---
+title: Laravel DB Eloquent Manual Book
+tags: technical
+key: 374eedca350f3d7d326ce3c1c0578b44fb379c45
+comment: true
+---
 # 准备
 首先，请参考[设置PHPStorm快捷键][1]学习如何设置快捷键，再进行以下设置
 # 1.设置快捷键
