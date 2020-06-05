@@ -1,5 +1,5 @@
 ---
-title: Laravel DB Eloquent Manual Book
+title: PHPStorm下配置快捷方式，以及优化Laravel 插件配置
 tags: technical
 key: 374eedca350f3d7d326ce3c1c0578b44fb379c45
 comment: true
