@@ -7,6 +7,7 @@ comment: true
 # 准备
 首先，请参考[设置PHPStorm快捷键][1]学习如何设置快捷键，再进行以下设置
 # 1.设置快捷键
+<!--more-->
 ### 全局专注代码编辑
 1. 代码专注（隐藏窗口）
 > 将`Enter Distraction Free Mode`的快捷键设置成`alt + f11`

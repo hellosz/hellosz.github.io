@@ -12,7 +12,7 @@ article_header:
 ------------
 
 Laravel应用程序的配置文件放置在config/database中，在其中可以定义各种类型、不同地址的数据库链接，设定默认数据库链接，同事支持在数据库查询动态配置。
-
+<!--more-->
 ------------------------------------------------------------------------
 
 读写分离(本地配置)
@@ -58,7 +58,7 @@ class IndexController extends Controller
     public function index()
     {
         $users = DB::select('select * from users where active = ?', [1]);
-        
+
         return view('index/users', ['users' => $users]);
     }
 }
@@ -126,7 +126,7 @@ DB::listen(function($sql, $bindings, $time) {
 
 ``` {.php}
 DB:transaction(function(){
-    
+
 });
 ```
 
@@ -371,7 +371,7 @@ orderBy:
 ``` {.php}
 $users = DB::table('users')
     ->orderBy('name', 'desc')
-    ->get(); 
+    ->get();
 ```
 
 inRandomOrder:
@@ -485,19 +485,19 @@ DB::table('users')->where('votes', '<>', 100)->lockForUpdate()->get();
 
 ``` {.php}
 // 表名(默认蛇形名称)
-protected $table = 'users';   
+protected $table = 'users';
 
 // 主键（默认ID）
 protected $primaryKey = '';
 
 // 时间戳（默认为true， 自动维护created_at, updated_at）
 protected $timestamps
-    
+
 // 数据连接
 protected $connection
-    
+
 // 白名单(可以被赋值的属性)
-protected $fillable = ['name']    
+protected $fillable = ['name']
 
 // 黑名单（禁止被赋值的属性）
 protected $guarded = ['created_at', 'updated_at'];
@@ -505,7 +505,7 @@ protected $guarded = ['created_at', 'updated_at'];
 // 日期属性
 protected $dates = ['deleted_at'];
 
-// 
+//
 ```
 
 TODO 验证如果创建表结构的时候不添加on update
@@ -529,7 +529,7 @@ $flights = Flight::all();
 foreach($flights as $flight) {
     $name = $flight->name; // 获取航班名称
 }
-    
+
 ```
 
 -   增加额外限制
@@ -631,7 +631,7 @@ $res = Flight::create(['name' => 'flight 10']);
 $flight = Flight::firstOrCreate(['name' => 'flight 01']);
 
 // 用属性获取模型，如果不存在则创建实例，需要用save()方法创建实例
-$flight = Flight::firstOrNew(['name' => 'flight 01']); 
+$flight = Flight::firstOrNew(['name' => 'flight 01']);
 $flight->save();
 ```
 
@@ -766,7 +766,7 @@ class User Extends Model
     protected static function boot()
     {
         parent::boot();
-        
+
         static::addGlobalScope('age', function(Builder $builder){
             $builder->where('age', '>', 10);
         })

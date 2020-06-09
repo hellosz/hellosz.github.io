@@ -10,11 +10,12 @@ article_header:
   image:
     src: /assets/headers/GeorgeMallory.jpg
 comment: true
+lightbox: true
 key: 328b3331dc8077757c70d49104968fe063801f3f
 ---
 ## 持续坚持番茄时钟，会对一个人产生什么样的改变？
 来源：[经过 1700 个番茄时间，番茄工作法改变了我什么](https://sspai.com/post/37307)
-## 番茄时钟是什么？
+## 番茄时钟是什么？ <!--more-->
 提高我们自控力的辅助工具
 
 ### 番茄工作法简明教程（狭义）
