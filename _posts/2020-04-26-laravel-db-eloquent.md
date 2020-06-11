@@ -1,8 +1,10 @@
 ---
 title: Laravel DB Eloquent Manual Book
-tags: technical
+tags: laravel eloquent
+category: technical
 key: a274f7f716d6dec0bbee98605bc364ba
 comment: true
+cover: /assets/images/laravel_800x800.bmp
 article_header:
  type: cover
  image:

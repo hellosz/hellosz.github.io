@@ -1,8 +1,10 @@
 ---
 layout: article
-title: 低脂饮食理念和食谱
 tags: diet health
+category: diet
+title: 低脂饮食理念和食谱
 mode: immersive
+cover: /assets/images/salad_800x800.jpg
 header:
   theme: dark
 article_header:

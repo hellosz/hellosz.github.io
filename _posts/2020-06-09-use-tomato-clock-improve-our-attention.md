@@ -2,7 +2,9 @@
 layout: article
 title: 如何通过番茄时钟工作法提升“工作效率”
 tags: learning
+category: technical
 mode: immersive
+cover: /assets/images/GeorgeMallory_800x800.jpg
 header:
   theme: dark
 article_header:

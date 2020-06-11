@@ -1,7 +1,8 @@
 ---
 title:  知识杂货铺
 tags: knowledge
-key: a3965f6bd0e64cebd43e3ea4a273abee
+category: technical
+cover: /assets/images/curiosity_800x800.jpg
 header:
   theme: dark
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
@@ -9,6 +10,7 @@ article_header:
  type: cover
  image:
   src:  /assets/headers/curiosity.png
+key: a3965f6bd0e64cebd43e3ea4a273abee
 ---
 分类进行只是的整理成系统，方便以后查阅
 <!--more-->

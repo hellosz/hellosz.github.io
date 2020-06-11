@@ -1,6 +1,8 @@
 ---
 title: PHPStorm下配置快捷方式，以及优化Laravel 插件配置
-tags: technical
+tags: technical phpstorm
+category: technical
+cover: /assets/images/android_800x800.jpg
 key: 374eedca350f3d7d326ce3c1c0578b44fb379c45
 comment: true
 ---

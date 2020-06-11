@@ -1,5 +1,30 @@
 header:
   - titles:
+     # @start locale config
+     en      : &EN       Diet & Health
+     en-GB   : *EN
+     en-US   : *EN
+     en-CA   : *EN
+     -AU   : *EN
+     zh-Hans : &ZH_HANS  人生之味
+     zh      : *ZH_HANS
+     zh-CN   : *ZH_HANS
+     zh-SG   : *ZH_HANS
+     zh-Hant : &ZH_HANT  生活品味
+     zh-TW   : *ZH_HANT
+     zh-HK   : *ZH_HANT
+     ko      : &KO       인생으로 맛도
+     ko-KR   : *KO
+     fr      : &FR       Goût de la vie
+     fr-BE   : *FR
+     fr-CA   : *FR
+     fr-CH   : *FR
+     fr-FR   : *FR
+     fr-LU   : *FR
+     # @end locale config
+    url: /diet.html
+
+  - titles:
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
