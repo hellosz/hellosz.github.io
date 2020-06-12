@@ -24,7 +24,13 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+comment: false
 ---
+<!--引入pokemon.gif-->
+<div style="width:100%;background-color:black;text-align:center">
+    <img src="./assets/images/pokemon.gif">
+</div>
+
 ```javascript
 console.log('hello, welcome to my blog!!!');
 ```
