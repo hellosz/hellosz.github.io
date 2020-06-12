@@ -1,5 +1,30 @@
 header:
   - titles:
+      # @start locale config
+      en: &EN       Technical
+      en-GB: *EN
+      en-US: *EN
+      en-CA: *EN
+      en-AU: *EN
+      zh-Hans: &ZH_HANS  那条路
+      zh: *ZH_HANS
+      zh-CN: *ZH_HANS
+      zh-SG: *ZH_HANS
+      zh-Hant: &ZH_HANT  那條路
+      zh-TW: *ZH_HANT
+      zh-HK: *ZH_HANT
+      ko: &KO       과학 기술
+      ko-KR: *KO
+      fr: &FR       La technologie
+      fr-BE: *FR
+      fr-CA: *FR
+      fr-CH: *FR
+      fr-FR: *FR
+      fr-LU: *FR
+      # @end locale config
+    url: /technical.html
+
+  - titles:
      # @start locale config
      en      : &EN       Diet & Health
      en-GB   : *EN
