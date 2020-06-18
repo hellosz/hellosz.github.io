@@ -27,7 +27,7 @@ key: page-about
 comment: false
 ---
 <!--引入pokemon.gif-->
-<div style="width:100%;background-color:black;text-align:center">
+<div style="width:100%;background-color:black;text-align:center;border-radius:0.4rem">
     <img src="./assets/images/pokemon.gif">
 </div>
 
