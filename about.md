@@ -25,12 +25,13 @@ titles:
   # @end locale config
 key: page-about
 comment: false
+full_width: false
 ---
-<!--引入pokemon.gif-->
-<div style="width:100%;background-color:black;text-align:center;border-radius:0.4rem">
-    <img src="./assets/images/pokemon.gif">
+<div class="hero hero--dark" style="height: 500px; background-image: url('./assets/images/forest_cover.jpg');">
+  <div class="hero__content">
+    <h3>Hello, you there</h3>
+    <p>
+      for test
+    </p>
+  </div>
 </div>
-
-```javascript
-console.log('hello, welcome to my blog!!!');
-```

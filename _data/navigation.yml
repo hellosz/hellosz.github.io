@@ -6,14 +6,14 @@ header:
       en-US: *EN
       en-CA: *EN
       en-AU: *EN
-      zh-Hans: &ZH_HANS  那条路
+      zh-Hans: &ZH_HANS  技术漫谈
       zh: *ZH_HANS
       zh-CN: *ZH_HANS
       zh-SG: *ZH_HANS
-      zh-Hant: &ZH_HANT  那條路
+      zh-Hant: &ZH_HANT  技術漫談
       zh-TW: *ZH_HANT
       zh-HK: *ZH_HANT
-      ko: &KO       과학 기술
+      ko: &KO       기술 토크
       ko-KR: *KO
       fr: &FR       La technologie
       fr-BE: *FR
@@ -26,28 +26,28 @@ header:
 
   - titles:
      # @start locale config
-     en      : &EN       Diet & Health
+     en      : &EN       Enjoy
      en-GB   : *EN
      en-US   : *EN
      en-CA   : *EN
      -AU   : *EN
-     zh-Hans : &ZH_HANS  人生之味
+     zh-Hans : &ZH_HANS  品味
      zh      : *ZH_HANS
      zh-CN   : *ZH_HANS
      zh-SG   : *ZH_HANS
-     zh-Hant : &ZH_HANT  生活品味
+     zh-Hant : &ZH_HANT  品味
      zh-TW   : *ZH_HANT
      zh-HK   : *ZH_HANT
-     ko      : &KO       인생으로 맛도
+     ko      : &KO       맛이 나다
      ko-KR   : *KO
-     fr      : &FR       Goût de la vie
+     fr      : &FR       goût
      fr-BE   : *FR
      fr-CA   : *FR
      fr-CH   : *FR
      fr-FR   : *FR
      fr-LU   : *FR
      # @end locale config
-    url: /diet.html
+    url: /enjoy.html
 
   - titles:
       # @start locale config

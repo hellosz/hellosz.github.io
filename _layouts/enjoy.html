@@ -2,21 +2,21 @@
 layout: articles
 titles:
   # @start locale config
-  en      : &EN       Diet & Health
+  en      : &EN       Enjoy
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  人生之味
+  zh-Hans : &ZH_HANS  品味
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  生活品味
+  zh-Hant : &ZH_HANT  品味
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
-  ko      : &KO       인생으로 맛도
+  ko      : &KO       맛이 나다
   ko-KR   : *KO
-  fr      : &FR       Goût de la vie
+  fr      : &FR       goût
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
@@ -28,8 +28,9 @@ articles:
   data_source: site.categories.diet
   type: item
   article_type: BlogPosting
+  show_cover: false
   show_excerpt: true
-  show_readmore: true
+  show_readmore: false
   show_info: true
 ---
 {{ content }}
