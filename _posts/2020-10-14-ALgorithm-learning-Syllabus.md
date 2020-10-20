@@ -1,4 +1,12 @@
-# 大纲
+---
+title: Syllabus
+tags: technical algorithm
+category: technical
+key: 40a019971e277ac81cd1fe9c94f69171
+comment: true
+---
+
+
 
 ## Week 01
 
