@@ -1,91 +1,16 @@
 ---
-title: Syllabus
+title: Learn Algorithm Syllabus
 tags: technical algorithm
 category: technical
 key: 40a019971e277ac81cd1fe9c94f69171
 comment: true
 ---
 
-
-
-## Week 01
-
-- ### **Algorithm 01** Introduction
-- ### **Algorithm 02** ArrayList
-
-## Week 02
-
-- ### **Algorithm 03** Recursion
-- ### **Algorithm 04** Search and Sort
-
-## Week 03
-
-- ### **Algorithm 05** Binary Search
-- ### **Algorithm 06** Divide and Conquer I
-
-## Week 04
-
-- ### **Algorithm 07** Divide and Conquer II
-- ### **Algorithm 08** Linked List I
-
-## Week 05
-
-- ### **Algorithm 09** Linked List II
-- ### **Algorithm 10** Stack and Queue I
-
-## Week 06
-
-- ### **Algorithm 11** Stack and Queue II
-- ### **Algorithm 12** Hashtable I
-
-## Week 07
-
-- ### **Algorithm 13** Hashtable II
-- ### **Algorithm 14** Tree
-
-## Week 08
-
-- ### **Algorithm 15** Tree II
-- ### **Algorithm 16** Heap
-
-## Week 09
-
-- ### **Algorithm 17** Graph I
-- ### **Algorithm 18** Graph II - DFS / BFS
-
-## Week 10
-
-- ### **Algorithm 19** Graph III - Dijkstra
-- ### **Algorithm 20** Graph IV - Union Find
-
-## Week 11
-
-- ### **Algorithm 21** Two Pointers
-- ### **Algorithm 22** Sliding Windows
-
-## Week 12
-
-- ### **Algorithm 23** DP I
-- ### **Algorithm 24** DP II
-
-## Week 13
-
-- ### **Algorithm 25** DP III
-- ### **Algorithm 26** Bit Manipulate / Math
-
-## Week 14
-
-- ### **Algorithm 27** Greedy
-- ### **Algorithm 28** String I
-
-## Week 15
-
-- ### **Algorithm 29** String II
-- ### **Algorithm 30** Mock Interview
-
-
-
 # 目标和规划
+
+沉下新来，死磕算法，大学本科偷过的懒，抄过的作业现在是该还上了
+
+<!--more-->
 
 ## 目标
 
@@ -102,13 +27,95 @@ comment: true
 
 - [AlgoCasts][2]
 - [覃超-算法通关面试40讲][3]
+- [算法第四版 Coursera课程（中文字幕）][4]、[普林斯顿大学 Algorithms, Part I][5]
 - 相关书籍
   - 入门级别：《算法图解》
   - 面试导向：《剑指Offer》、《编程之美-微软技术面试心得》
   - 深入学习：《算法》、《算法导论》
+
+# 大纲
+
+**Week 01**
+
+- **Algorithm 01** Introduction
+- **Algorithm 02** ArrayList
+
+**Week 02**
+
+- **Algorithm 03** Recursion
+- **Algorithm 04** Search and Sort
+
+**Week 03**
+
+- **Algorithm 05** Binary Search
+- **Algorithm 06** Divide and Conquer I
+
+**Week 04**
+
+- **Algorithm 07** Divide and Conquer II
+- **Algorithm 08** Linked List I
+
+**Week 05**
+
+- **Algorithm 09** Linked List II
+- **Algorithm 10** Stack and Queue I
+
+**Week 06**
+
+- **Algorithm 11** Stack and Queue II
+- **Algorithm 12** Hashtable I
+
+**Week 07**
+
+- **Algorithm 13** Hashtable II
+- **Algorithm 14** Tree
+
+**Week 08**
+
+- **Algorithm 15** Tree II
+- **Algorithm 16** Heap
+
+Week 09
+
+- **Algorithm 17** Graph I
+- **Algorithm 18** Graph II - DFS / BFS
+
+**Week 10**
+
+- **Algorithm 19** Graph III - Dijkstra
+- **Algorithm 20** Graph IV - Union Find
+
+**Week 11**
+
+- **Algorithm 21** Two Pointers
+- **Algorithm 22** Sliding Windows
+
+**Week 12**
+
+- **Algorithm 23** DP I
+- **Algorithm 24** DP II
+
+**Week 13**
+
+- **Algorithm 25** DP III
+- **Algorithm 26** Bit Manipulate / Math
+
+**Week 14**
+
+- **Algorithm 27** Greedy
+- **Algorithm 28** String I
+
+**Week 15**
+
+- **Algorithm 29** String II
+- **Algorithm 30** Mock Interview
+
+
 
 
 
 [1]: https://hellosz.github.io	"Blog"
 [2]: https://algocasts.io "AlgoCasts"
 [3]: https://time.geekbang.org/course/intro/100019701 "算法通关面试40讲"
+[4]:https://www.bilibili.com/video/BV1u441127b5?p=2 "算法第四版 Coursera课程（中文字幕）"
+[5]:https://www.coursera.org/learn/algorithms-part1/course-inbox "普林斯顿大学 Algorithms, Part I"
