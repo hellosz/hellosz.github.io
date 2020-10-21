@@ -1,6 +1,6 @@
 ---
 title: Linux环境升级npm和node操作指南
-tags: technical algorithm
+tags: technical frontend
 category: technical
 key: 
 comment: true
@@ -63,6 +63,7 @@ comment: true
 ## 4. 使用n工具安装稳定的node
 
 > // 安装稳定版本 
+>
 > sudo /usr/local/node/bin/n stable
 >
 > 
