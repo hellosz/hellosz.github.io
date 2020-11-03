@@ -29,9 +29,13 @@ full_width: false
 ---
 <div class="hero hero--dark" style="height: 500px; background-image: url('./assets/images/forest_cover.jpg');">
   <div class="hero__content">
-    <h3>Hello, you there</h3>
+    <h3>Hello, my dear friend</h3>
     <p>
-      for test
+      好久没见了
+    </p>
+     <p>
+      最近过得怎么样？
     </p>
   </div>
 </div>
+
