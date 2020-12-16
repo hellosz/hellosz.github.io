@@ -31,10 +31,10 @@ full_width: false
   <div class="hero__content">
     <h3>Hello, my dear friend</h3>
     <p>
-      好久没见了
+      好久不见
     </p>
      <p>
-      最近过得怎么样？
+      最近过得怎样？
     </p>
   </div>
 </div>
