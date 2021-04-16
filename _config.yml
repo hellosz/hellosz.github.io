@@ -20,7 +20,7 @@ text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme:  tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://hellosz.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Fabulous
+title   : fabulous's Growth 
 description: > # this means to ignore newlines until "Language & timezone"
   怕什么真理无穷，进一寸有一寸的欢喜
 
@@ -29,7 +29,6 @@ description: > # this means to ignore newlines until "Language & timezone"
 ##############################
 lang: zh # the language of your site, default as "en"
 timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
-
 
 ## => Author and Social
 ##############################
@@ -208,7 +207,7 @@ defaults:
       type: posts
     values:
       layout: article
-      sharing: true
+      sharing: false 
       license: true
       aside:
         toc: true
