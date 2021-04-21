@@ -18,8 +18,9 @@
 ##############################
 text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme:  tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://hellosz.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
+# url     : https://hellosz.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : http://www.hellosz.top
+# baseurl : # does not include hostname
 title   : fabulous's Growth 
 description: > # this means to ignore newlines until "Language & timezone"
   怕什么真理无穷，进一寸有一寸的欢喜
@@ -207,7 +208,7 @@ defaults:
       type: posts
     values:
       layout: article
-      sharing: false 
+      sharing:  false 
       license: true
       aside:
         toc: true
