@@ -35,7 +35,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : neng tian
+  name      : neng.tian
   url       :
   avatar    : ./assets/avatar.jpg # path or url of avatar image (square)
   bio       :  he is a fool; yes, he is.
@@ -46,8 +46,8 @@ author:
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : hao-zi-1-45 # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
-  douban    : 48931675 # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
+  zhihu     : fabulous_tn # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  douban    : fabulous_tian # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : hellosz # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
