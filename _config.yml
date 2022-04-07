@@ -21,7 +21,7 @@ highlight_theme:  tomorrow-night-eighties # "default" (default), "tomorrow", "to
 # url     : https://hellosz.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 url     : http://www.hellosz.top
 # baseurl : # does not include hostname
-title   : fabulous's Growth 
+title   : Ralph's Growth 
 description: > # this means to ignore newlines until "Language & timezone"
   怕什么真理无穷，进一寸有一寸的欢喜
 
@@ -38,7 +38,7 @@ author:
   name      : neng.tian
   url       :
   avatar    : ./assets/avatar.jpg # path or url of avatar image (square)
-  bio       :  he is a fool; yes, he is.
+  bio       :  怕什么真理无穷，进一寸有进一寸的欢喜
   email     : 13554416610@163.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
